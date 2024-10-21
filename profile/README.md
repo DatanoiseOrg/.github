@@ -8,3 +8,5 @@ Our product portfolio includes:
 * USB MIDI Host - RP2040-powered USB to TRS MIDI Host
 * OctaWave - 8 channel ADAT DAC
 * TEPSU - +/- 12V / Eurorack Prototyping PSU with Type-C PD Input
+
+We also provide custom hardware solutions - check datanoise.org for more information.
